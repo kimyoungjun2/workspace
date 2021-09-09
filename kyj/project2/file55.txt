@@ -1,0 +1,4 @@
+식별번호|회원명|나이|성별|이메일
+1|김재훈|23|m|kimjaehoon@sample.com
+2|박정우|21|m|packjungwoo@sample.com
+3|이수정|22|w|leesujung@sample.com
